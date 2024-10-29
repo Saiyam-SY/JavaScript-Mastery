@@ -24,7 +24,7 @@ let fullName = firstName + lastName;
 // console.log(fullName.split("").join("-"));
 
 //7. INCLUDES
-// console.log(fullName.includes("HuXn"));
+// console.log(fullName.includes("Saiyam"));
 
 //8. TRIM
 // console.log(fullName.trim());
